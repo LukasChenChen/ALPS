@@ -1,5 +1,17 @@
 # [ALPS: An Application-Aware, Length-Predictive Scheduler for Efficient LLM Inference at Edge](https://ieeexplore.ieee.org/document/11723265)
 
+```bibtex
+@ARTICLE{11723265,
+  author={Chen, Chen and Jiao, Lei and Mortier, Richard},
+  journal={IEEE Transactions on Parallel and Distributed Systems}, 
+  title={ALPS: An Application-Aware, Length-Predictive Scheduler for Efficient LLM Inference at Edge}, 
+  year={2026},
+  volume={37},
+  number={12},
+  pages={2710-2725},
+  doi={10.1109/TPDS.2026.3741399}}
+```
+
 ALPS is a queue scheduler systen that combines application-aware prefix sharing and hybrid batching.
 ----------
 ## Python version 3.10.19
